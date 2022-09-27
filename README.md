@@ -8,7 +8,7 @@ Ferramentas 💻<br>
 Power BI, MySQL , Google Storage, Bigquery (GCP)
 
 Linguagem de Programação 🖥<br>
-Python , JavaScript , SQL
+Python, SQL
 
 Estudando 📚<br>
 Aws Practitioner, Apache Airflow
