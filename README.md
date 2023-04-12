@@ -1,6 +1,6 @@
 Guilherme,
 
-Engenheiro de Dados e entusiasta do Devops 👨‍🔧🧑‍💻
+Engenheiro de Dados e entusiasta de Data Science 👨‍🔧🧑‍💻
 
 
 
