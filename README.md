@@ -1,6 +1,6 @@
 Guilherme,
 
-Analista e Engenheiro de dados, entusiasta de Data Science 👨‍🔧🧑‍💻
+Engenheiro e Analista de dados 👨‍🔧🧑‍💻
 
 
 
