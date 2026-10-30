@@ -9,7 +9,6 @@ Engenheiro de Dados 👨‍🔧🧑‍💻
 <img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
 <img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
             
