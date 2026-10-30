@@ -1,27 +1,47 @@
-Guilherme,
-
-Engenheiro de Dados 👨‍🔧🧑‍💻
-
-
-
-<div style="display: inline_block"><br>
-
-<img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
-<img align ="center" alt="gui.py" height ="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-            
-</div>
-
-##
+<div align="center">Guilherme Custodio
+Data Engineer | Cloud & Lakehouse | AI Engineering in Progress
+Building reliable data pipelines and scalable data platforms.
 
 
-<div> 
+</div>About me
+I'm a Data Engineer working in the field since 2020, focused on turning raw data into reliable, usable datasets and building scalable data solutions.
+
+My background includes data pipelines, ETL/ELT processes, distributed processing, SQL, and cloud data technologies. I'm currently expanding my skills toward AI Engineering, combining my data engineering foundation with Python, machine learning, and LLM-based applications.
+- Core focus: Data Engineering, Lakehouse architectures, ETL/ELT and data quality
+- Cloud & platforms: Azure, AWS, Databricks
+- Currently learning: AI Engineering, LLMs and applied Python projects
+- Based in: São Paulo, Brazil
+Tech stack
+Languages & data processing
 
 
-<a href = "mailto:guilhermecomercial12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-custodio-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
+Cloud & data platforms
+
+
+
+
+Development & version control
+
+
+Featured projects
+Project	Description	Tech
+Message Classifier	Beginner-friendly Python project that categorizes customer messages using simple rules.	Python
+Order Analysis System	Python project for analyzing and processing order information.	Python
+
+
+These are foundational learning projects from my AI Engineering roadmap. More advanced data and AI projects will be added as I progress.
+
+What I'm working on
+- Strengthening software engineering practices through hands-on Python and Git projects
+- Exploring practical applications of AI and large language models (LLMs)
+- Connecting data engineering principles with AI-ready systems
+GitHub activity
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeeCustodio&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="Guilherme's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeeCustodio&layout=compact&hide_border=true&theme=github_dark" alt="Most used repository languages" />
+</div><div align="center">Data Engineering today. Building toward AI Engineering.
+
+Explore my repositories
 </div>
